@@ -16,7 +16,7 @@ Soon after, there should be `avrdude` and `avrdude-doc` debs in the `releases` d
 
 ## Pre-Built Binaries
 
-You can also download [debs we've built](https://bitbucket.org/profirmserv/pfs-avrdude_builder/downloads). These debs are for 64-bit Ubuntu Xenial (16.04). If you need something else, build it yourself.
+You can also download [debs we've built](https://bitbucket.org/profirmserv/pfs-avrdude_builder/downloads). These debs are for 64-bit Ubuntu Xenial (16.04) but they might work on other versions.
 
 ## Contributions
 
