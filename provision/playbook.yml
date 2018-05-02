@@ -41,3 +41,4 @@
           - libusb-dev
           - libftdi-dev
           - libelf-dev
+          - git
